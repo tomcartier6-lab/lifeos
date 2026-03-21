@@ -1,0 +1,268 @@
+{
+  "state": {
+    "xp": 705,
+    "streak": 4,
+    "last_date": "2026-03-20",
+    "earned_badges": [
+      "income1",
+      "first",
+      "xp100",
+      "links10",
+      "combo3",
+      "xp500",
+      "s3"
+    ]
+  },
+  "days": {
+    "2026-03-12": {
+      "steps": 0,
+      "links": 0
+    },
+    "2026-03-16": {
+      "links": 34,
+      "mood_e": 4,
+      "day_score": 7,
+      "is_rest": false,
+      "j_good": "-j'ai bien travaillé\n-marcher et la salle c'était cool\n-l'appli est vraiment top",
+      "j_improve": "Continuer ce que j'ai fait ajd, gérer la stabilité émotionnelle",
+      "j_insight": "Me poser devant un commerce en liquidation et voir ce qui déconnait/aurait pu être fait",
+      "victory": "Développer l'application",
+      "tomorrow_1": "~30 liens",
+      "tomorrow_2": "séances pecs-épaules",
+      "tomorrow_3": "continuer de développer l'appli",
+      "evening_ts": "00:41",
+      "posts": 0,
+      "pods": 0,
+      "pages": 0,
+      "steps": 6787,
+      "habits": [
+        "sport"
+      ]
+    },
+    "2026-03-17": {
+      "wake_t": "09:45",
+      "bed_t": "01:45",
+      "sleep_h": 8,
+      "mood_m": 3,
+      "intention": "",
+      "morning_ts": "11:20",
+      "tomorrow_1": "~30 liens",
+      "tomorrow_2": "séances biceps-dos",
+      "tomorrow_3": "continuer de développer l'appli",
+      "habits": [
+        "sport",
+        "work",
+        "creativite"
+      ],
+      "day_score": 8,
+      "links": 32,
+      "victory": "J'ai bien avancé encore sur l'application, et surtout j'ai fait 120€.",
+      "j_good": "Mon travail, le sport, la ldc",
+      "j_improve": "travailler plus tôt",
+      "j_insight": "agence marketing immobilier",
+      "mood_e": null,
+      "is_rest": false,
+      "evening_ts": "01:40",
+      "posts": 0,
+      "pods": 0,
+      "pages": 0,
+      "steps": 7089
+    },
+    "2026-03-13": {
+      "steps": 14570
+    },
+    "2026-03-14": {
+      "steps": 2687
+    },
+    "2026-03-15": {
+      "steps": 4282
+    },
+    "2026-03-18": {
+      "wake_t": "09:35",
+      "bed_t": "02:10",
+      "sleep_h": 7.4,
+      "mood_m": 4,
+      "intention": "Bien avancer dans mon programme",
+      "morning_ts": "10:17",
+      "tomorrow_1": "~30 liens",
+      "tomorrow_2": "séances jambes",
+      "tomorrow_3": "continuer de développer l'appli",
+      "habits": [
+        "sport",
+        "work",
+        "creativite"
+      ],
+      "day_score": 7,
+      "links": 27,
+      "j_good": "séance à la salle, avancer sur mon travail, le soir avec justine",
+      "victory": "Continuer de développer l'appli",
+      "mood_e": 3,
+      "is_rest": false,
+      "j_improve": "faire + de liens",
+      "j_insight": "logiciel de facturation myself",
+      "evening_ts": "00:26",
+      "posts": 0,
+      "pods": 0,
+      "pages": 0,
+      "steps": 8730
+    },
+    "2026-03-19": {
+      "wake_t": "09:20",
+      "bed_t": "02:10",
+      "sleep_h": 7.2,
+      "mood_m": 4,
+      "intention": "",
+      "morning_ts": "15:25",
+      "tomorrow_1": "~30 liens",
+      "tomorrow_2": "séances jambes",
+      "tomorrow_3": "continuer de développer l'appli",
+      "habits": [],
+      "links": 0,
+      "day_score": 8,
+      "j_good": "prendre le temps pour moi\n",
+      "j_improve": "faire + de liens",
+      "j_insight": "prendre son indépendance de mon côté",
+      "victory": "avoir fait tous mes liens",
+      "mood_e": 4,
+      "is_rest": false,
+      "evening_ts": "23:20",
+      "posts": 0,
+      "pods": 0,
+      "pages": 0
+    },
+    "2026-03-20": {
+      "wake_t": "09:55",
+      "bed_t": "03:10",
+      "sleep_h": 6.8,
+      "mood_m": 4,
+      "intention": "",
+      "morning_ts": "11:53",
+      "tomorrow_1": "-renvoyer 3 commandes",
+      "tomorrow_2": "faire 13 liens",
+      "tomorrow_3": "continuer de développer l'appli",
+      "habits": [],
+      "links": 33,
+      "day_score": 5,
+      "victory": "commencer à m'intéresser au poker",
+      "mood_e": 3,
+      "is_rest": false,
+      "j_good": "",
+      "j_improve": "apporter + de positivité dans ma vie",
+      "j_insight": "",
+      "evening_ts": "00:29",
+      "posts": 0,
+      "pods": 0,
+      "pages": 0
+    }
+  },
+  "finance": {
+    "goal": 1500,
+    "entries": [
+      {
+        "id": 1773327163147,
+        "amount": 75,
+        "label": "Ninjalinking",
+        "date": "2026-03-11"
+      },
+      {
+        "id": 1773327805542,
+        "amount": 11.25,
+        "label": "Netlinking",
+        "date": "2026-03-05"
+      },
+      {
+        "id": 1773699487663,
+        "amount": 82.5,
+        "label": "Netlinking",
+        "date": "2026-03-12"
+      },
+      {
+        "id": 1773704690803,
+        "amount": 127.5,
+        "label": "Netlinking",
+        "date": "2026-03-16"
+      },
+      {
+        "id": 1773794074746,
+        "amount": 120,
+        "label": "Netlinking",
+        "date": "2026-03-17"
+      },
+      {
+        "id": 1773876683980,
+        "amount": 101.25,
+        "label": "Netlinking",
+        "date": "2026-03-18"
+      },
+      {
+        "id": 1773957767501,
+        "amount": 108.75,
+        "label": "Netlinking",
+        "date": "2026-03-19"
+      },
+      {
+        "id": 1774031591166,
+        "amount": 123.75,
+        "label": "Netlinking",
+        "date": "2026-03-20"
+      }
+    ]
+  },
+  "sport": {
+    "goal": 24,
+    "sessions": [
+      {
+        "id": 1773327699636,
+        "date": "2026-03-11",
+        "type": "Musculation",
+        "duration": 60,
+        "intensity": 4,
+        "mood": 3,
+        "muscles": "Pectoraux-Epaules",
+        "notes": "Pas d'écouteurs"
+      },
+      {
+        "id": 1773340382285,
+        "date": "2026-03-12",
+        "type": "Musculation",
+        "duration": 60,
+        "intensity": 3,
+        "mood": 3,
+        "muscles": "",
+        "notes": ""
+      },
+      {
+        "id": 1773704560131,
+        "date": "2026-03-16",
+        "type": "Musculation",
+        "duration": 60,
+        "intensity": 3,
+        "mood": 4,
+        "muscles": "Séance Upper",
+        "notes": "Séance sympa"
+      },
+      {
+        "id": 1773794537797,
+        "date": "2026-03-17",
+        "type": "Cardio",
+        "duration": 30,
+        "intensity": 3,
+        "mood": 3,
+        "muscles": "Running/Tractions",
+        "notes": "500m/5tractions x 10"
+      },
+      {
+        "id": 1773876490165,
+        "date": "2026-03-18",
+        "type": "Musculation",
+        "duration": 60,
+        "intensity": 4,
+        "mood": 3,
+        "muscles": "Biceps-Dos",
+        "notes": ""
+      }
+    ],
+    "program": {}
+  },
+  "weight": []
+}
